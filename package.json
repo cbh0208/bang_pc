@@ -1,0 +1,13 @@
+{
+  "name": "electron-for-pan",
+  "description": "a little electron project",
+  "scripts": {
+    "start": "tsc && electron dict/main.js"
+  },
+  "devDependencies": {
+    "electron": "^18.0.0"
+  },
+  "dependencies": {
+    "@types/electron": "^1.6.10"
+  }
+}
